@@ -1,0 +1,6 @@
+{
+  "name": "الخزنة الرقمية الشخصية - Personal Vault",
+  "description": "خزنة رقمية مشفرة لحفظ الصور والملفات والأرقام الحساسة والبطاقة الصحية الحيوية للطوارئ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
