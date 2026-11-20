@@ -6,6 +6,8 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/My-Safe-App/',
+
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
